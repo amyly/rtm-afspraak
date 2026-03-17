@@ -1,6 +1,6 @@
 # Rotterdam Naturalization Appointment Checker
 
-A Python script that checks the Gemeente Rotterdam booking page every 5 minutes and sends you a Telegram message the moment a naturalization appointment becomes available. Runs between 07:01 and 22:00.
+A Python script that checks the Gemeente Rotterdam booking page every 5 minutes and sends you a Telegram message the moment a naturalization appointment becomes available. Runs between 07:46 and 22:00.
 
 ## Setup
 
