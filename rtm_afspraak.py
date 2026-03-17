@@ -14,8 +14,8 @@ import urllib.parse
 # =========================
 # CONFIG — EDIT LOCALLY ONLY
 # =========================
-BOT_TOKEN = "7964413523:AAFxBhzCnLrQwWfhNjK5LTbcITMgqs_Yj4s"
-CHAT_ID = "8229136722"
+BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN_HERE"
+CHAT_ID = "YOUR_TELEGRAM_CHAT_ID_HERE"
 # =========================
 
 URL = "https://concern.ir.rotterdam.nl/afspraak/maken/product/indienen-naturalisatieverzoek"
